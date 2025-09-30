@@ -1,5 +1,0 @@
-Push A : Base feature setup and project scaffolding.
-Push B : Added UI components for login.
-Push C : Implemeted backed API integration.
-Push D : Added form validation and error handing.
-Push E : Minor bug fix and styling tweaks.
